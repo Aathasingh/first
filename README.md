@@ -1,3 +1,4 @@
 # first
-this is my first git repository
-author astha singh 
+this is my first git repository.
+<br>
+Author-astha singh 
